@@ -75,7 +75,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-## I made additional step on the proces to set up the environment in docker containerization and later deploy it on OpenWebUi and access Ollama from Your Phone using NGROK
+## I made additional step on the proces to set up the environment in docker containerization and later deploy it on OpenWebUi and access Ollama from any device using NGROK
 
 
 ![Docker Containerization Screenshot](Screenshot3.png)
