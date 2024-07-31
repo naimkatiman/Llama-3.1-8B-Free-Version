@@ -1,6 +1,6 @@
 Sample output on Google Collab
 
-![Docker Containerization Screenshot](screenshot2.png)
+![Docker Containerization Screenshot](Screenshot2.png)
 
 
 # Ollama Setup
@@ -78,8 +78,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## I made additional step on the proces to set up the environment in docker containerization and later deploy it on OpenWebUi and access Ollama from Your Phone using NGROK
 
 
-![Docker Containerization Screenshot](screenshot3.png)
+![Docker Containerization Screenshot](Screenshot3.png)
 
-![NGROK Screenshot](screenshot4.png)
+![NGROK Screenshot](Screenshot4.png)
 
-![User Interface on OpenWebui Screenshot](screenshot1.png)
+![User Interface on OpenWebui Screenshot](Screenshot1.png)
