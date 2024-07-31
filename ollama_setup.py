@@ -48,5 +48,5 @@ model = {
     "model_kwargs": {"model": "llama3.1:8b"}
 }
 qa = SimpleQA(**model)
-output = qa("what is happiness")
+output = qa("Is Elon Musk a Robot or Alien?")
 display(Markdown(f"**Answer:** {output.data}"))
